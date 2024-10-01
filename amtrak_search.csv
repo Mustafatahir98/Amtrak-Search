@@ -1,0 +1,559 @@
+OBJECTID,StaType,StnType,ZipCode,State,City,Address,Station Name,lon,lat,Code
+4,Station Building (with waiting room),TRAIN,21001,MD,Aberdeen,18 East Bel Air Avenue,"Aberdeen, MD",-76.16326,39.508447,ABE
+5,Platform with Shelter,TRAIN,8201,NJ,Absecon,Shore Road and Ohio Avenue,"Albion, CA",-74.501475,39.424041,ABN
+6,Station Building (with waiting room),TRAIN,87102,NM,Albuquerque,320 1st Street SW,Albuquerque,-106.647975,35.082061,ABQ
+7,Platform with Shelter,TRAIN,94509,CA,Antioch,100 I Street,"Arcata, CA",-121.816024,38.0177,ACA
+9,Station Building (with waiting room),TRAIN,63621,MO,Arcadia,13700 Highway 21,"Aiken, SC",-90.624403,37.592161,ACD
+10,Station Building (with waiting room),TRAIN,8401,NJ,Atlantic City,1 Atlantic City Expressway,Atlantic City Rail Terminal,-74.439903,39.362689,ACY
+11,Station Building (with waiting room),TRAIN,73401,OK,Ardmore,251 East Main Street,Ardmore,-97.12551,34.172465,ADM
+14,Platform with Shelter,TRAIN,41101,KY,Ashland,99 15th Street,Ashland,-82.639603,38.480875,AKY
+16,Station Building (with waiting room),TRAIN,12144,NY,Rensselaer,525 East Street,Albany-Rensselaer Station,-73.741147,42.641029,ALB
+17,Platform only (no shelter),TRAIN,44601,OH,Alliance,820 East Main Street,"Alhambra, CA",-81.092904,40.921275,ALC
+18,Platform with Shelter,TRAIN,24910,WV,Alderson,1 C&O Plaza on Railroad Avenue,"Albany, OR",-80.644856,37.724277,ALD
+19,Station Building (with waiting room),TRAIN,49224,MI,Albion,300 North Eaton Street,"Alice, TX",-84.755814,42.247196,ALI
+21,Station Building (with waiting room),TRAIN,62002,IL,Alton,1 Golf Road,Allentown,-90.157298,38.921007,ALN
+22,Station Building (with waiting room),TRAIN,79830,TX,Alpine,102 West Holland Avenue,Alpine,-103.661513,30.357302,ALP
+23,Station Building (with waiting room),TRAIN,16601,PA,Altoona,1231 11th Avenue,Altoona,-78.40162,40.514475,ALT
+24,Station Building (with waiting room),TRAIN,22301,VA,Alexandria,110 Callahan Drive,"Alexandria, VA",-77.06233,38.806503,ALX
+25,Station Building (with waiting room),TRAIN,97321,OR,Albany,110 10th Avenue SW,Albany,-123.102774,44.630464,ALY
+26,Station Building (with waiting room),TRAIN,12010,NY,Amsterdam,466 West Main Street,"Amsterdam, NY",-74.2195,42.953719,AMS
+27,Station Building (with waiting room),TRAIN,92806,CA,Anaheim,2626 East Katella Avenue,Anaheim,-117.877308,33.803803,ANA
+30,Station Building (with waiting room),TRAIN,48104,MI,Ann Arbor,325 Depot Street,Ann Arbor,-83.743154,42.287692,ARB
+32,Station Building (with waiting room),TRAIN,19003,PA,Ardmore,39 Station Avenue,Ardmore,-75.290399,40.008278,ARD
+33,Station Building (with waiting room),TRAIN,71923,AR,Arkadelphia,798 South 5th Street,"Arkadelphia, AR",-93.053284,34.113919,ARK
+34,Platform with Shelter,TRAIN,95603,CA,Auburn,277 Nevada Street,"Artesia, NM",-121.083187,38.903638,ARN
+36,Platform with Shelter,TRAIN,23005,VA,Ashland,112 North Railroad Avenue,"Ashland, KY",-77.481304,37.759596,ASD
+37,Station Building (with waiting room),TRAIN,L7T 4A8,ON,Aldershot,1199 Waterdown Road,"Astoria, OR",-79.855712,43.313413,AST
+39,Station Building (with waiting room),TRAIN,30309,GA,Atlanta,"1688 Peachtree Street, NW",Atlanta Peachtree Station,-84.392477,33.799445,ATL
+40,Station Building (with waiting room),TRAIN,36201,AL,Anniston,126 West 4th Street,"Atlanta, GA",-85.832145,33.649112,ATN
+41,Platform with Shelter,TRAIN,8004,NJ,Atco,Cooper Road and Raritan Avenue,"Atlantic City, NJ",-74.907893,39.783504,ATO
+43,Station Building (with waiting room),TRAIN,78703,TX,Austin,250 North Lamar Boulevard,Austin,-97.75694,30.269449,AUS
+46,Station Building (with waiting room),TRAIN,21201,MD,Baltimore,1500 North Charles Street,Penn Station,-76.615688,39.307302,BAL
+47,Station Building (with waiting room),TRAIN,49013,MI,Bangor,541 Railroad Street,"Baltimore, MD",-86.111646,42.314519,BAM
+49,Platform with Shelter,TRAIN,92311,CA,Barstow,685 North First Avenue,Harvey House Rail Depot,-117.025435,34.90482,BAR
+50,Station Building (with waiting room),TRAIN,91502,CA,Burbank,201 North Front Street,Downtown,-118.311829,34.178925,BBK
+52,Station Building (with waiting room),TRAIN,2116,MA,Boston,145 Dartmouth Street,Back Bay Station,-71.075828,42.347317,BBY
+54,Platform with Shelter,TRAIN,22015,VA,Burke,10399 Premier Court,"BCV, CA",-77.29879,38.797271,BCV
+59,Station Building (with waiting room),TRAIN,98225,WA,Bellingham,401 Harris Avenue,Bellingham,-122.511255,48.720263,BEL
+60,Platform with Shelter,TRAIN,85602,AZ,Benson,105 East 4th Street,"Bend, OR",-110.296904,31.968758,BEN
+61,Platform with Shelter,TRAIN,6037,CT,Berlin,51 Depot Road,"Berkeley, CA",-72.765274,41.635595,BER
+63,Station Building (with waiting room),TRAIN,93301,CA,Bakersfield,601 Truxtun Avenue,Bakersfield,-119.00821,35.37214,BFD
+66,Station Building (with waiting room),TRAIN,14203,NY,Buffalo,75 Exchange Street,Exchange Street Station,-78.873748,42.878449,BFX
+68,Station Building (with waiting room),TRAIN,35203,AL,Birmingham,1801 Morris Avenue,Birmingham,-86.807023,33.512937,BHM
+74,Platform with Shelter,TRAIN,94710,CA,Berkeley,700 University Avenue,Berkeley,-122.300707,37.867254,BKY
+75,Station Building (with waiting room),TRAIN,5101,VT,Bellows Falls,54 Depot Street,"Bluefield, WV",-72.444597,43.13654,BLF
+79,Platform with Shelter,TRAIN,77704,TX,Beaumont,2555 West Cedar Street,"Blytheville, AR",-94.127367,30.076458,BMT
+80,Station Building (with waiting room),TRAIN,27217,NC,Burlington,101 North Main Street,Burlington,-79.434531,36.094225,BNC
+82,Station Building (with waiting room),TRAIN,6405,CT,Branford,39 Maple Street,"Bayonne, NJ",-72.817225,41.274549,BNF
+83,Platform with Shelter,TRAIN,98605,WA,Bingen,Highway 14 and Walnut Street,Bangor,-121.46873,45.71502,BNG
+85,Station Building (with waiting room),TRAIN,61761,IL,Normal,11 Uptown Circle,"Battle Creek, MI",-88.984306,40.50901,BNL
+88,Station Building (with waiting room),TRAIN,2114,MA,Boston,135 Causeway Street,North Station,-71.061122,42.366235,BON
+89,Station Building (with waiting room),TRAIN,2110,MA,Boston,2 South Station,South Station,-71.055304,42.352311,BOS
+90,Station Building (with waiting room),TRAIN,5301,VT,Brattleboro,10 Vernon Road,Brattleboro,-72.556497,42.850849,BRA
+92,Station Building (with waiting room),TRAIN,39601,MS,Brookhaven,440 North Railroad Avenue,Brookhaven,-90.44107,31.582961,BRH
+94,Station Building (with waiting room),TRAIN,4011,ME,Brunswick,16 Station Avenue,Brunswick,-69.965541,43.911388,BRK
+95,Station Building (with waiting room),TRAIN,52601,IA,Burlington,300 South Main Street,Burlington,-91.101951,40.805788,BRL
+96,Platform with Shelter,TRAIN,59417,MT,Browning,Heart Butte Road and Depot Road,Boca Raton,-113.013151,48.534067,BRO
+97,Station Building (with waiting room),TRAIN,6604,CT,Bridgeport,525 Water Street,Bridgeport,-73.187539,41.178006,BRP
+99,Station Building (with waiting room),TRAIN,49017,MI,Battle Creek,119 McCamly Street South,Battle Creek,-85.187825,42.318453,BTL
+100,Station Building (with waiting room),TRAIN,5401,VT,Burlington,1 Main Street,Union Station,-73.21927,44.4757,BTN
+103,Station Building (with waiting room),TRAIN,14043,NY,Depew,55 Dick Road,Depew Station,-78.726584,42.907017,BUF
+105,Platform with Shelter,TRAIN,91505,CA,Burbank,3750 Empire Avenue,Burbank,-118.353767,34.193072,BUR
+109,Station Building (with waiting room),TRAIN,21240,MD,Baltimore,7 Amtrak Way,"Baltimore, MD",-76.6943,39.192362,BWI
+110,Station Building (with waiting room),TRAIN,43506,OH,Bryan,Paige and Lynn Street,"Bayonne, NJ",-84.551799,41.480319,BYN
+111,Station Building (with waiting room),TRAIN,29020,SC,Camden,1060 West Dekalb Street,Baltimore Camden Station,-80.62519,34.248157,CAM
+116,Platform with Shelter,TRAIN,76031,TX,Cleburne,206 North Border Street,"Cobar, CA",-97.382333,32.349743,CBR
+117,Station Building (with waiting room),TRAIN,53925,WI,Columbus,359 North Ludington Street,"Colorado Springs, CO",-89.012609,43.340611,CBS
+121,Station Building (with waiting room),TRAIN,62901,IL,Carbondale,401 South Illinois Avenue,Carbondale,-89.216628,37.724235,CDL
+124,Station Building (with waiting room),TRAIN,62801,IL,Centralia,110 South Oak St.,"Centralia, WA",-89.136118,38.527531,CEN
+130,Station Building (with waiting room),TRAIN,60606,IL,Chicago,255 South Clinton Street,Union Station,-87.641015,41.878992,CHI
+132,Station Building (with waiting room),TRAIN,61820,IL,Champaign,45 East University Avenue,Champaign-Urbana,-88.241366,40.115843,CHM
+135,Station Building (with waiting room),TRAIN,29405,SC,North Charleston,4565 Gaynor Avenue,Charleston,-79.998048,32.875473,CHS
+136,Station Building (with waiting room),TRAIN,25314,WV,Charleston,350 MacCorkle Avenue - Southeast,"Chico, CA",-81.638494,38.346368,CHW
+137,Platform only (no shelter),TRAIN,95928,CA,Chico,450 Orange Street,Chico,-121.845861,39.723259,CIC
+138,Station Building (with waiting room),TRAIN,45203,OH,Cincinnati,1301 Western Avenue,Union Terminal,-84.537061,39.109927,CIN
+139,Platform with Shelter,TRAIN,3743,NH,Claremont,Plains Road and Maple Avenue,"Clarion, PA",-72.377644,43.36833,CLA
+140,Station Building (with waiting room),TRAIN,29201,SC,Columbia,850 Pulaski Street,"Columbia, SC",-81.04049,33.994297,CLB
+142,Station Building (with waiting room),TRAIN,44114,OH,Cleveland,200 Cleveland Memorial Shoreway,Clemson,-81.696172,41.505787,CLE
+143,Station Building (with waiting room),TRAIN,24422,VA,Clifton Forge,307 East Ridgeway Street,"Clovis, NM",-79.827363,37.814521,CLF
+145,Station Building (with waiting room),TRAIN,6413,CT,Clinton,10 John Street Extension,"Clinton, IA",-72.528314,41.279458,CLN
+146,Station Building (with waiting room),TRAIN,22701,VA,Culpeper,111 South Commerce Street,"Clovis, CA",-77.993421,38.47236,CLP
+148,Station Building (with waiting room),TRAIN,28206,NC,Charlotte,1914 North Tryon Street,Charlotte,-80.822812,35.241403,CLT
+150,Platform only (no shelter),TRAIN,93010,CA,Camarillo,30 Lewis Road,"Camarillo, CA",-119.034114,34.215933,CML
+151,Platform with Shelter,TRAIN,97731,OR,Chemult,Palmer/Kranz Street and Depot Street,"Como, MS",-121.781594,43.216784,CMO
+153,Platform only (no shelter),TRAIN,93219,CA,Allensworth,4011 Grant Drive,"Canon City, CO",-119.385865,35.864338,CNL
+154,Station Building (with waiting room),TRAIN,5735,VT,Castleton,266 Main Street,"Connellsville, PA",-73.171337,43.613382,CNV
+155,Station Building (with waiting room),TRAIN,93212,CA,Corcoran,1099 Otis Avenue,"Corcoran, CA",-119.55705,36.098516,COC
+156,Platform with Shelter,TRAIN,47331,IN,Connersville,1012 Eastern Avenue,"Coos Bay, OR",-85.13338,39.645969,COI
+158,Platform with Shelter,TRAIN,19320,PA,Coatesville,Third Avenue and Fleetwood Street,"Cottonwood, AZ",-75.820929,39.985688,COT
+159,Platform with Shelter,TRAIN,15425,PA,Connellsville,North Water Street & West Peach Street,Connersville,-79.592813,40.020282,COV
+160,Station Building (with waiting room),TRAIN,95713,CA,Colfax,99 Railroad Street,"Colfax, CA",-120.953075,39.099172,COX
+162,Platform with Shelter,TRAIN,93013,CA,Carpinteria,475 Linden Avenue,"Copeland, KS",-119.522975,34.39678,CPN
+164,Platform with Shelter,TRAIN,47933,IN,Crawfordsville,400 North Green Street,Cranford,-86.899187,40.044705,CRF
+165,Station Building (with waiting room),TRAIN,8002,NJ,Cherry Hill,Cornell Avenue & West Marlton Pike,"Corvallis, OR",-75.041824,39.928946,CRH
+168,Station Building (with waiting room),TRAIN,50801,IA,Creston,116 West Adams Street,Croton-Harmon,-94.361617,41.05692,CRN
+169,Station Building (with waiting room),TRAIN,10520,NY,Croton-on-Hudson,4 Veteran's Plaza and 1 Croton Point Avenue,"Cartersville, GA",-73.882394,41.189903,CRT
+170,Station Building (with waiting room),TRAIN,62626,IL,Carlinville,128 Alton Road,Crawfordsville,-89.889276,39.279295,CRV
+171,Station Building (with waiting room),TRAIN,29631,SC,Clemson,1105 Tiger Boulevard,"Casper, WY",-82.832501,34.691115,CSN
+173,Station Building (with waiting room),TRAIN,98531,WA,Centralia,210 Railroad Avenue,Centralia,-122.953062,46.71747,CTL
+177,Station Building (with waiting room),TRAIN,21502,MD,Cumberland,201 East Harrison Street,Amtrak Station,-78.758,39.650628,CUM
+178,Station Building (with waiting room),TRAIN,59427,MT,Cut Bank,101 BNSF Industrial Site,"Cut Bank, MT",-112.331584,48.638364,CUT
+183,Station Building (with waiting room),TRAIN,22903,VA,Charlottesville,810 West Main Street,Corvallis,-78.491684,38.031484,CVS
+185,Platform with Shelter,TRAIN,19020,PA,Cornwells Heights,700 Station Avenue,"Creswell, OR",-74.952187,40.071663,CWH
+186,Platform with Shelter,TRAIN,91311,CA,Chatsworth,10040 Old Depot Plaza Road,"Culpeper, VA",-118.599417,34.253205,CWT
+187,Station Building (with waiting room),TRAIN,27513,NC,Cary,211 North Academy Street,Cary,-78.782246,35.788294,CYN
+189,Station Building (with waiting room),TRAIN,75202,TX,Dallas,400 South Houston Street,Eddie Bernice Johnson Union Sta,-96.807235,32.776094,DAL
+191,Station Building (with waiting room),TRAIN,24541,VA,Danville,677 Craghead Street,"Danville, VA",-79.383968,36.58409,DAN
+193,Station Building (with waiting room),TRAIN,95616,CA,Davis,840 Second Street,Davis,-121.737707,38.543562,DAV
+198,Station Building (with waiting room),TRAIN,67801,KS,Dodge City,201 East Wyatt Earp Boulevard,Dodge City,-100.016961,37.752306,DDG
+199,Platform only (no shelter),TRAIN,88030,NM,Deming,400 East Railroad Avenue,"Deming, NM",-107.754346,32.27177,DEM
+200,Station Building (with waiting room),TRAIN,80202,CO,Denver,1701 Wynkoop Street,Denver Union Station,-104.999929,39.752959,DEN
+201,Station Building (with waiting room),TRAIN,48124,MI,Dearborn,21201 Michigan Avenue,Dearborn,-83.235311,42.307167,DER
+202,Station Building (with waiting room),TRAIN,48202,MI,Detroit,11 West Baltimore Avenue,Detroit,-83.072397,42.368097,DET
+203,Station Building (with waiting room),TRAIN,33442,FL,Deerfield Beach,1300 West Hillsboro Boulevard,"Deerfield Beach, FL",-80.122147,26.317069,DFB
+205,Station Building (with waiting room),TRAIN,3824,NH,Durham,3 Depot Road,University of New Hampshire,-70.936013,43.139328,DHM
+206,Station Building (with waiting room),TRAIN,29536,SC,Dillon,100 North Railroad Avenue,"Dillsboro, NC",-79.372301,34.417647,DIL
+208,Platform with Shelter,TRAIN,33444,FL,Delray Beach,345 South Congress Avenue,Delray Beach,-80.091154,26.454021,DLB
+209,Station Building (with waiting room),TRAIN,32720,FL,DeLand,2491 Old New York Avenue,"Dundee, IL",-81.352477,29.017849,DLD
+210,Station Building (with waiting room),TRAIN,56501,MN,Detroit Lakes,116 Pioneer Street,Detroit Lakes,-95.845998,46.819692,DLK
+212,Station Building (with waiting room),TRAIN,27701,NC,Durham,601 West Main Street,"Duncan, OK",-78.906299,35.997347,DNC
+213,Station Building (with waiting room),TRAIN,29042,SC,Denmark,200 West Baruch Street,"Dunsmuir, CA",-81.143635,33.326184,DNK
+214,Station Building (with waiting room),TRAIN,49047,MI,Dowagiac,200 Depot Drive,"Dothan, AL",-86.109041,41.980941,DOA
+215,Station Building (with waiting room),TRAIN,3820,NH,Dover,33 Chestnut Street,Dover,-70.878361,43.197968,DOV
+216,Platform with Shelter,TRAIN,19335,PA,Downingtown,159 Viaduct Avenue,Downingtown,-75.710775,40.002193,DOW
+218,Station Building (with waiting room),TRAIN,62832,IL,Du Quoin,20 North Chestnut Street,"Durant, OK",-89.240254,38.012328,DQN
+219,Station Building (with waiting room),TRAIN,48429,MI,Durand,200 South Railroad Street,"Durant, OK",-83.98232,42.909495,DRD
+220,Platform only (no shelter),TRAIN,78840,TX,Del Rio,100 North Main Street,"Del Rio, TX",-100.902662,29.362202,DRT
+223,Station Building (with waiting room),TRAIN,96025,CA,Dunsmuir,5750 Sacramento Avenue,"Duncan, OK",-122.270587,41.211127,DUN
+226,Station Building (with waiting room),TRAIN,58301,ND,Devils Lake,Railroad Avenue and Third Street,"Deville, LA",-98.861372,48.110468,DVL
+228,Station Building (with waiting room),TRAIN,60420,IL,Dwight,401 South Columbia Street,Dwight,-88.430707,41.089854,DWT
+230,Platform with Shelter,TRAIN,46311,IN,Dyer,913 Sheffield Avenue,"Dyersburg, TN",-87.518076,41.515413,DYE
+232,Station Building (with waiting room),TRAIN,98020,WA,Edmonds,211 Railroad Avenue,Edmonds,-122.384141,47.811081,EDM
+233,Station Building (with waiting room),TRAIN,62401,IL,Effingham,401 West National Avenue,"Easton, MD",-88.54711,39.117059,EFG
+234,Platform with Shelter,TRAIN,8215,NJ,Egg Harbor City,South Philadelphia Avenue & Atlantic Avenue,"Eugene, OR",-74.64802,39.526494,EGH
+237,Station Building (with waiting room),TRAIN,46515,IN,Elkhart,131 Tyler Avenue,"Elk Horn, KY",-85.971848,41.680748,EKH
+239,Platform with Shelter,TRAIN,89801,NV,Elko,1300 Water Street (Train 5),Elko,-115.75053,40.836483,ELK
+240,Station Building (with waiting room),TRAIN,79901,TX,El Paso,700 West San Francisco Avenue,Union Depot,-106.495644,31.757346,ELP
+242,Station Building (with waiting room),TRAIN,17022,PA,Elizabethtown,50 South Wilson Avenue ,Elizabethtown,-76.612234,40.147028,ELT
+243,Platform only (no shelter),TRAIN,44035,OH,Elyria,410 East River Road,"Ely, NV",-82.096685,41.370033,ELY
+245,Station Building (with waiting room),TRAIN,94608,CA,Emeryville,5885 Horton Street,"Emeryville, CA",-122.291615,37.840474,EMY
+246,Platform with Shelter,TRAIN,98823,WA,Ephrata,90 Alder Street NW,"Ephrata, WA",-119.549267,47.320948,EPH
+248,Station Building (with waiting room),TRAIN,16501,PA,Erie,125 West 14th Street,Erie,-80.082444,42.120847,ERI
+250,Platform only (no shelter),TRAIN,59916,MT,Essex,290 Izaak Walton Inn Road,"East Stroudsburg, PA",-113.610942,48.275543,ESM
+252,Station Building (with waiting room),TRAIN,5452,VT,Essex Junction,29 Railroad Avenue,Amtrak Station,-73.110277,44.492466,ESX
+255,Station Building (with waiting room),TRAIN,97401,OR,Eugene,433 Willamette Street,Eugene,-123.092361,44.055043,EUG
+259,Station Building (with waiting room),TRAIN,98201,WA,Everett,3201 Smith Avenue,Everett,-122.197858,47.975401,EVR
+261,Station Building (with waiting room),TRAIN,7114,NJ,Newark,3 Brewster Road,Liberty International Airport,-74.18229,40.696618,EWR
+262,Platform with Shelter,TRAIN,3833,NH,Exeter,60 Lincoln Street,Exeter,-70.9587,42.98102,EXR
+263,Station Building (with waiting room),TRAIN,19341,PA,Exton,445 Walkertown Road,Exton,-75.621713,40.019291,EXT
+264,Platform only (no shelter),TRAIN,4105,ME,Falmouth,Muirfield Road at Railroad Crossing,Falmouth Country Club,-70.259479,43.769588,FAL
+265,Station Building (with waiting room),TRAIN,58102,ND,Fargo,420 4th Street North,Fargo,-96.785372,46.880982,FAR
+267,Station Building (with waiting room),TRAIN,28301,NC,Fayetteville,472 Hay Street,Fayetteville,-78.884788,35.054993,FAY
+268,Platform with Shelter,TRAIN,22401,VA,Fredericksburg,425 Princess Anne Street,"Fredericksburg, VA",-77.457707,38.29808,FBG
+271,Platform only (no shelter),TRAIN,12828,NY,Fort Edward,70 East Street,Fort Edward,-73.58055,43.269603,FED
+272,Station Building (with waiting room),TRAIN,94533,CA,Fairfield,4921 Vanden Road,"Fort Fairfield, ME",-121.967926,38.285626,FFV
+276,Station Building (with waiting room),TRAIN,86001,AZ,Flagstaff,1 East Route 66,Flagstaff,-111.648871,35.197374,FLG
+277,Station Building (with waiting room),TRAIN,48503,MI,Flint,1407 South Dort Highway,Flint,-83.651728,43.015425,FLN
+278,Station Building (with waiting room),TRAIN,29506,SC,Florence,805 East Day Street,Florence,-79.757056,34.199157,FLO
+279,Station Building (with waiting room),TRAIN,52627,IA,Fort Madison,810 10th Street ,Historic Santa Fe Station,-91.313529,40.629558,FMD
+280,Station Building (with waiting room),TRAIN,80701,CO,Fort Morgan,South Ensign Street and Main Street,"Farmington, MO",-103.802818,40.247169,FMG
+281,Station Building (with waiting room),TRAIN,94536,CA,Fremont,37260 Fremont Boulevard,Amtrak/ACE Station,-122.007496,37.559093,FMT
+282,Station Building (with waiting room),TRAIN,93721,CA,Fresno,2650 Tulare Street,Fresno,-119.782926,36.738457,FNO
+283,Platform with Shelter,TRAIN,1702,MA,Framingham,417 Waverly Street,Framingham,-71.420033,42.275993,FRA
+285,Station Building (with waiting room),TRAIN,4032,ME,Freeport,23 Depot Road,Freeport,-70.102358,43.855035,FRE
+293,Platform with Shelter,TRAIN,12883,NY,Ticonderoga,NYS Hwy 74 and Sandy Redoubt,Fort Collins,-73.389681,43.853788,FTC
+294,Station Building (with waiting room),TRAIN,33312,FL,Fort Lauderdale,200 Southwest 21st Terrace,"Fort Lauderdale, FL",-80.17,26.119256,FTL
+296,Station Building (with waiting room),TRAIN,42041,KY,Fulton,21 Newton Road,"Fort Collins, CO",-88.888772,36.525704,FTN
+297,Station Building (with waiting room),TRAIN,76102,TX,Fort Worth,1001 Jones Street,Central Station,-97.326673,32.752563,FTW
+298,Station Building (with waiting room),TRAIN,92832,CA,Fullerton,120 East Santa Fe Avenue,Fullerton,-117.922849,33.868969,FUL
+299,Platform only (no shelter),TRAIN,95054,CA,Santa Clara,5099 Stars and Stripes Drive,Great America,-121.967003,37.406778,GAC
+300,Station Building (with waiting room),TRAIN,28054,NC,Gastonia,350 Hancock Street,Gastonia,-81.162366,35.269186,GAS
+301,Station Building (with waiting room),TRAIN,61401,IL,Galesburg,225 South Seminary Street,"Glasgow, MT",-90.364106,40.944678,GBB
+306,Station Building (with waiting room),TRAIN,67846,KS,Garden City,100 North 7th Street,Garden City,-100.873256,37.964365,GCK
+307,Station Building (with waiting room),TRAIN,86023,AZ,Grand Canyon Village,2 North Village Loop,Grand Canyon Railway Depot,-112.136845,36.056867,GCN
+308,Platform with Shelter,TRAIN,91204,CA,Glendale,400 West Cerritos Avenue,"Garden City, KS",-118.258868,34.123706,GDL
+310,Station Building (with waiting room),TRAIN,1301,MA,Greenfield,12 Olive Street,Greenfield,-72.600765,42.585458,GFD
+311,Station Building (with waiting room),TRAIN,58201,ND,Grand Forks,5555 DeMers Avenue,"Grand Forks, ND",-97.110835,47.917522,GFK
+312,Station Building (with waiting room),TRAIN,59230,MT,Glasgow,424 1st  Avenue South,Glasgow,-106.636188,48.194854,GGW
+316,Station Building (with waiting room),TRAIN,81501,CO,Grand Junction,339 South 1st Street,Grand Junction,-108.569929,39.064375,GJT
+317,Station Building (with waiting room),TRAIN,76240,TX,Gainesville,605 East California Street,"Glen Ellyn, IL",-97.140896,33.625159,GLE
+318,Platform with Shelter,TRAIN,60938,IL,Gilman,800 US Highway 24 West,"Glenwood Springs, CO",-87.998055,40.752547,GLM
+319,Station Building (with waiting room),TRAIN,60025,IL,Glenview,1116 Depot Street,"Galesburg, IL",-87.805562,42.075038,GLN
+320,Platform only (no shelter),TRAIN,87301,NM,Gallup,201 East Highway 66,Gallup,-108.740548,35.529176,GLP
+323,Platform with Shelter,TRAIN,L3M 3H6,ON,Grimsby,99 Ontario Street,"Germantown, MD",-79.557945,43.195949,GMS
+324,Platform with Shelter,TRAIN,15601,PA,Greensburg,Harrison Avenue and Seton Hill Drive,Amtrak Station,-79.546893,40.304986,GNB
+327,Station Building (with waiting room),TRAIN,30501,GA,Gainesville,116 Industrial Boulevard,"Geneva, NY",-83.819694,34.288897,GNS
+330,Station Building (with waiting room),TRAIN,59434,MT,East Glacier Park,400 Highway 49 North,"Glasgow, MT",-113.219523,48.442333,GPK
+331,Station Building (with waiting room),TRAIN,80446,CO,Granby,438 Railroad Avenue,"Grand Rapids, MI",-105.935503,40.084188,GRA
+335,Platform with Shelter,TRAIN,84525,UT,Green River,250 South Broadway,"Grand Island, NE",-110.165228,38.992039,GRI
+338,Station Building (with waiting room),TRAIN,27401,NC,Greensboro,236 East Washington Street,Greensboro,-79.78708,36.069797,GRO
+339,Station Building (with waiting room),TRAIN,49503,MI,Grand Rapids,440 Century Avenue SW,Grand Rapids,-85.672447,42.955788,GRR
+340,Station Building (with waiting room),TRAIN,29601,SC,Greenville,1120 West Washington Street,Greenville,-82.413486,34.858256,GRV
+342,Station Building (with waiting room),TRAIN,81601,CO,Glenwood Springs,413 7th Street,Glenwood Springs,-107.323218,39.547903,GSC
+344,Platform with Shelter,TRAIN,93117,CA,Goleta,25 South La Patera Lane,"Grafton, WV",-119.843092,34.437729,GTA
+347,Station Building (with waiting room),TRAIN,93434,CA,Guadalupe,330 Guadalupe Street,"Guanajuato, Mexico",-120.57341,34.962927,GUA
+348,Station Building (with waiting room),TRAIN,6437,CT,Guilford,325 Old Whitfield Street,"Guin, AL",-72.673513,41.275603,GUI
+350,Platform with Shelter,TRAIN,93433,CA,Grover Beach,180 West Grand Avenue,"Glenview, IL",-120.629266,35.12126,GVB
+353,Station Building (with waiting room),TRAIN,38930,MS,Greenwood,Carrollton Avenue and East Gibson Street,"Greenville, MS",-90.176454,33.517159,GWD
+357,Station Building (with waiting room),TRAIN,28345,NC,Hamlet,2 Main Street,Hammond,-79.699218,34.883663,HAM
+358,Station Building (with waiting room),TRAIN,17101,PA,Harrisburg,4th and Chestnut Streets,Harrisburg Transportation Center,-76.878256,40.26205,HAR
+359,Station Building (with waiting room),TRAIN,68901,NE,Hastings,501 West First Street,Hastings,-98.387534,40.584276,HAS
+360,Station Building (with waiting room),TRAIN,59501,MT,Havre,235 Main Street,Havre,-109.678352,48.554465,HAV
+361,Platform with Shelter,TRAIN,94541,CA,Hayward,22555 Meekland Avenue,"Hay Springs, NE",-122.099277,37.665997,HAY
+362,Platform with Shelter,TRAIN,39083,MS,Hazlehurst,North Ragsdale Avenue and East Conway Street,"Hazleton, PA",-90.394347,31.86132,HAZ
+363,Station Building (with waiting room),TRAIN,39401,MS,Hattiesburg,308 Newman Street,Hattiesburg,-89.286463,31.326921,HBG
+365,Station Building (with waiting room),TRAIN,65041,MO,Hermann,301 Wharf Street,"Hempstead, NY",-91.432558,38.707283,HEM
+366,Station Building (with waiting room),TRAIN,84526,UT,Helper,1 Depot Street,"Hereford, TX",-110.853894,39.684036,HER
+367,Station Building (with waiting room),TRAIN,6103,CT,Hartford,One Union Place,Hartford Union Station,-72.681314,41.768761,HFD
+368,Platform with Shelter,TRAIN,25425,WV,Harpers Ferry,Potomac Street & Shenandoah Street,"Harpers Ferry, WV",-77.731078,39.324452,HFY
+369,Station Building (with waiting room),TRAIN,16652,PA,Huntingdon,Fourth and Allegheny Streets,Huntingdon,-78.01178,40.483665,HGD
+373,Platform with Shelter,TRAIN,1832,MA,Haverhill,Washington Street at Railroad Square,"Hastings, NE",-71.086375,42.773297,HHL
+374,Station Building (with waiting room),TRAIN,25951,WV,Hinton,100 Second Avenue,"Hinton, WV",-80.892232,37.675037,HIN
+378,Platform only (no shelter),TRAIN,68949,NE,Holdrege,200 East Avenue,Holdrege,-99.370077,40.436013,HLD
+379,Platform with Shelter,TRAIN,1041,MA,Holyoke,74 Main Street,"Hilliard, FL",-72.602309,42.204156,HLK
+380,Station Building (with waiting room),TRAIN,70401,LA,Hammond,404 N.W. Railroad Avenue,"Hammond, IN",-90.462169,30.50718,HMD
+381,Station Building (with waiting room),TRAIN,46320,IN,Hammond,1135 North Calumet Avenue,"Hattiesburg, MS",-87.506511,41.691155,HMI
+382,Station Building (with waiting room),TRAIN,60430,IL,Homewood,18015 Park Avenue,Homewood,-87.668685,41.562446,HMW
+383,Station Building (with waiting room),TRAIN,93230,CA,Hanford,200 Santa Fe Avenue #A,Hanford,-119.651816,36.326078,HNF
+386,Station Building (with waiting room),TRAIN,33021,FL,Hollywood,3001 Hollywood Boulevard,Hollywood,-80.167884,26.011641,HOL
+387,Station Building (with waiting room),TRAIN,49423,MI,Holland,171 Lincoln Avenue,"Homestead, FL",-86.096553,42.791096,HOM
+389,Station Building (with waiting room),TRAIN,71801,AR,Hope,100 East Division Street,"Hope, AR",-93.592247,33.668913,HOP
+390,Station Building (with waiting room),TRAIN,77002,TX,Houston,902 Washington Avenue,Amtrak Station,-95.367526,29.767245,HOS
+391,Station Building (with waiting room),TRAIN,27260,NC,High Point,100 West High Avenue,High Point,-80.006097,35.957128,HPT
+394,Platform with Shelter,TRAIN,8037,NJ,Hammonton,Egg Harbor Road & Line Street,"Hartford, CT",-74.79934,39.631317,HTN
+395,Station Building (with waiting room),TRAIN,12534,NY,Hudson,69 South Front Street,Hudson,-73.797729,42.253891,HUD
+396,Station Building (with waiting room),TRAIN,25701,WV,Huntington,1050 8th Avenue,"Huntington, IN",-82.439735,38.41582,HUN
+397,Station Building (with waiting room),TRAIN,67501,KS,Hutchinson,North Walnut Street & East 3rd Avenue,Hutchinson,-97.931522,38.055712,HUT
+401,Station Building (with waiting room),TRAIN,64050,MO,Independence,600 South Grand Avenue,Independence,-94.429711,39.086917,IDP
+403,Station Building (with waiting room),TRAIN,46225,IN,Indianapolis,350 South Illinois Street,Indianapolis,-86.160423,39.761984,IND
+404,Station Building (with waiting room),TRAIN,92618,CA,Irvine,15215 Barranca Parkway,Irvine,-117.733695,33.656771,IRV
+405,Station Building (with waiting room),TRAIN,39201,MS,Jackson,300 West Capitol Street,Jackson,-90.190936,32.300808,JAN
+406,Station Building (with waiting room),TRAIN,32209,FL,Jacksonville,3570 Clifford Lane,Jacksonville,-81.723893,30.365601,JAX
+407,Platform with Shelter,TRAIN,65101,MO,Jefferson City,101 Jefferson Street,Jefferson City,-92.169906,38.57887,JEF
+411,Station Building (with waiting room),TRAIN,60432,IL,Joliet,90 East Jefferson Street,"Joliet, IL",-88.078731,41.524647,JOL
+412,Station Building (with waiting room),TRAIN,31545,GA,Jesup,176 Northwest Broad Street,Jesup,-81.882173,31.605589,JSP
+413,Station Building (with waiting room),TRAIN,15901,PA,Johnstown,47 Walnut Street,Johnstown,-78.921996,40.329689,JST
+416,Station Building (with waiting room),TRAIN,49201,MI,Jackson,501 East Michigan Avenue,Jackson,-84.39967,42.248113,JXN
+417,Station Building (with waiting room),TRAIN,49007,MI,Kalamazoo,459 North Burdick Street,Kalamazoo,-85.584018,42.295255,KAL
+418,Station Building (with waiting room),TRAIN,28081,NC,Kannapolis,201 South Main Street,Kannapolis,-80.624928,35.496172,KAN
+419,Station Building (with waiting room),TRAIN,64108,MO,Kansas City,30 West Pershing Road,Union Station,-94.585129,39.084576,KCY
+420,Station Building (with waiting room),TRAIN,61443,IL,Kewanee,210 West Third Street,"Keene, NH",-89.927544,41.245765,KEE
+421,Station Building (with waiting room),TRAIN,98626,WA,Kelso,501 South First Avenue,"Kelso, WA",-122.913016,46.142264,KEL
+422,Station Building (with waiting room),TRAIN,97601,OR,Klamath Falls,1600 Oak Avenue,Klamath Falls,-121.771952,42.225509,KFS
+428,Station Building (with waiting room),TRAIN,2892,RI,West Kingston,1 Railroad Avenue,Kingston,-71.560597,41.483959,KIN
+429,Station Building (with waiting room),TRAIN,34741,FL,Kissimmee,111 East Dakin Avenue,Kissimmee,-81.404234,28.293835,KIS
+430,Station Building (with waiting room),TRAIN,60901,IL,Kankakee,199 South East Avenue,Kankakee,-87.86543,41.119259,KKI
+433,Station Building (with waiting room),TRAIN,86401,AZ,Kingman,402 Andy Devine,Kingman,-114.052816,35.188279,KNG
+436,Station Building (with waiting room),TRAIN,29556,SC,Kingstree,101 East Main St.,"Kerrville, TX",-79.829026,33.663882,KTR
+438,Station Building (with waiting room),TRAIN,63122,MO,Kirkwood,110 West Argonne Drive,"Kewanee, IL",-90.406761,38.581067,KWD
+439,Platform only (no shelter),TRAIN,15650,PA,Latrobe,329 McKinley Avenue,Amtrak Station,-79.385083,40.317405,LAB
+441,Station Building (with waiting room),TRAIN,47901,IN,Lafayette,200 North Second Street,Amtrak Station,-86.895901,40.419347,LAF
+442,Station Building (with waiting room),TRAIN,60525,IL,La Grange,25 West Burlington Avenue,"La Grande, OR",-87.871545,41.815634,LAG
+443,Station Building (with waiting room),TRAIN,81050,CO,La Junta,1 West First Street,La Junta,-103.543576,37.988249,LAJ
+444,Station Building (with waiting room),TRAIN,33801,FL,Lakeland,600 East  Main Street,To/from points north,-81.951874,28.045603,LAK
+446,Station Building (with waiting room),TRAIN,63549,MO,La Plata,535 North Owensby Street,La Plata,-92.493384,40.02922,LAP
+449,Station Building (with waiting room),TRAIN,39440,MS,Laurel,230 North Maple Street,Laurel,-89.127933,31.692168,LAU
+450,Station Building (with waiting room),TRAIN,90012,CA,Los Angeles,800 North Alameda Street,Los Angeles Union Station,-118.236778,34.056177,LAX
+452,Station Building (with waiting room),TRAIN,70601,LA,Lake Charles,100 Ryan Street,Litchfield,-93.217037,30.238126,LCH
+453,Station Building (with waiting room),TRAIN,62656,IL,Lincoln,103 North Chicago Street,"Lincoln, IL",-89.363051,40.148199,LCN
+458,Platform with Shelter,TRAIN,88045,NM,Lordsburg,Center Street and East Motel Drive,"Lordsburg, NM",-108.707025,32.35007,LDB
+459,Station Building (with waiting room),TRAIN,8083,NJ,Somerdale,Station Avenue & White Horse Road West,"Somerdale, NJ",-75.000759,39.83383,LDW
+460,Platform with Shelter,TRAIN,64063,MO,Lee's Summit,217 SW Main Street,"Lee's Summit, MO",-94.377972,38.912623,LEE
+463,Station Building (with waiting room),TRAIN,17044,PA,Lewistown,150 Helen Street,Amtrak Station,-77.580047,40.588309,LEW
+464,Platform only (no shelter),TRAIN,27292,NC,Lexington,29 South Railroad Street,Lexington,-80.251565,35.820856,LEX
+465,Station Building (with waiting room),TRAIN,70501,LA,Lafayette,100 Lee Avenue,Lafayette,-92.014519,30.226548,LFT
+466,Station Building (with waiting room),TRAIN,59923,MT,Libby,100 Mineral Avenue,Libby,-115.54889,48.394842,LIB
+468,Station Building (with waiting room),TRAIN,33801,FL,Lakeland,600 East Main Street,To/from points south,-81.951874,28.045603,LKL
+470,Platform only (no shelter),TRAIN,81052,CO,Lamar,109 E Beech Street,Lamar,-102.618574,38.089623,LMR
+471,Station Building (with waiting room),TRAIN,87540,NM,Lamy,152 Old Lamy Trail,"Leesville, LA",-105.879968,35.480973,LMY
+472,Station Building (with waiting room),TRAIN,17602,PA,Lancaster,53 McGovern Avenue,Lancaster,-76.307714,40.054181,LNC
+473,Station Building (with waiting room),TRAIN,68508,NE,Lincoln,277 Pinnacle Arena Drive,Lincoln Station,-96.71317,40.815871,LNK
+475,Station Building (with waiting room),TRAIN,48823,MI,East Lansing,1240 South Harrison Road,East Lansing,-84.495962,42.718731,LNS
+477,Station Building (with waiting room),TRAIN,95240,CA,Lodi,24 South Sacramento Street,"Lodi, CA",-121.271887,38.133201,LOD
+480,Station Building (with waiting room),TRAIN,22079,VA,Lorton,8006 Lorton Road,Auto Train Station,-77.220942,38.708143,LOR
+482,Station Building (with waiting room),TRAIN,48446,MI,Lapeer,73 Howard Street,"Lapeer, MI",-83.306154,43.04952,LPE
+484,Platform with Shelter,TRAIN,93437,CA,Surf,Ocean Ave and Park Rd,"Lordsburg, NM",-120.605001,34.682704,LPS
+486,Station Building (with waiting room),TRAIN,66044,KS,Lawrence,413 East 7th Street,Lawrence,-95.230539,38.971166,LRC
+487,Station Building (with waiting room),TRAIN,72201,AR,Little Rock,1400 West Markham Street,Union Station,-92.286785,34.750298,LRK
+490,Station Building (with waiting room),TRAIN,54601,WI,La Crosse,601 St. Andrew Street,Amtrak Station,-91.247298,43.833155,LSE
+491,Station Building (with waiting room),TRAIN,87701,NM,Las Vegas,500 Railroad Avenue at Lincoln,"Las Vegas, NV",-105.212779,35.593432,LSV
+495,Platform with Shelter,TRAIN,95330,CA,Manteca,17800 Shideler Parkway,"Littleton, NH",-121.263658,37.79836,LTM
+504,Station Building (with waiting room),TRAIN,75602,TX,Longview,905 Pacific Avenue,Longview,-94.728322,32.494032,LVW
+505,Platform with Shelter,TRAIN,98826,WA,Leavenworth,11645 North Road ,Leavenworth,-120.643965,47.606493,LWA
+508,Station Building (with waiting room),TRAIN,24501,VA,Lynchburg,825 Kemper Street,"Lynchburg, VA",-79.156934,37.406439,LYH
+509,Station Building (with waiting room),TRAIN,61455,IL,Macomb,120 East Calhoun Street,Macon,-90.67094,40.461212,MAC
+513,Station Building (with waiting room),TRAIN,59538,MT,Malta,51 South 1st Street East,Malta,-107.872242,48.360477,MAL
+514,Station Building (with waiting room),TRAIN,61938,IL,Mattoon,1718 Broadway Avenue,Mattoon,-88.376045,39.48273,MAT
+515,Station Building (with waiting room),TRAIN,41056,KY,Maysville,West Front Street & Rosemary Clooney Street,"Mayville, NY",-83.771074,38.652148,MAY
+516,Platform with Shelter,TRAIN,5753,VT,Middlebury,30 Middle Seymour Street ,Amtrak Station,-73.169775,44.017425,MBY
+518,Station Building (with waiting room),TRAIN,39648,MS,McComb,114 North Railroad Avenue,"McComb, MS",-90.451334,31.244467,MCB
+519,Station Building (with waiting room),TRAIN,95340,CA,Merced,324 West 24th Street,Merced,-120.476805,37.307183,MCD
+520,Station Building (with waiting room),TRAIN,76657,TX,McGregor,1 Amtrak Boulevard,"McGregor, TX",-97.404756,31.443352,MCG
+521,Platform only (no shelter),TRAIN,46360,IN,Michigan City,100 Washington Street,"Michigan City, IN",-86.905385,41.721103,MCI
+522,Station Building (with waiting room),TRAIN,69001,NE,McCook,101 Norris Avenue,McCook,-100.625792,40.197634,MCK
+524,Platform with Shelter,TRAIN,6450,CT,Meriden,60 State Street,Meriden,-72.800678,41.539385,MDN
+526,Platform with Shelter,TRAIN,93638,CA,Madera,18770 Road 26,"Madera, CA",-120.07498,37.022471,MDR
+527,Station Building (with waiting room),TRAIN,6443,CT,Madison,79 Bradley Road,"Modesto, CA",-72.599444,41.283577,MDS
+528,Station Building (with waiting room),TRAIN,61342,IL,Mendota,783 Main Street,Middletown,-89.11792,41.549584,MDT
+531,Station Building (with waiting room),TRAIN,39301,MS,Meridian,1901 Front Street,Union Station,-88.696568,32.364166,MEI
+532,Station Building (with waiting room),TRAIN,38103,TN,Memphis,545 South Main Street,Central Station,-90.059109,35.132458,MEM
+533,Station Building (with waiting room),TRAIN,8830,NJ,Iselin,100 Middlesex-Essex Turnpike,Metuchen,-74.329583,40.568056,MET
+540,Station Building (with waiting room),TRAIN,75670,TX,Marshall,800 North Washington Street,"Marshall, TX",-94.366995,32.551549,MHL
+543,Station Building (with waiting room),TRAIN,33147,FL,Miami,8303 NW 37th Avenue,Miami,-80.257759,25.849554,MIA
+544,Platform with Shelter,TRAIN,17057,PA,Middletown,270 West Emaus Street,Middletown,-76.736482,40.195658,MID
+546,Station Building (with waiting room),TRAIN,75773,TX,Mineola,115 East Front Street,"Minot, ND",-95.4891,32.662049,MIN
+548,Platform with Shelter,TRAIN,17552,PA,Mount Joy,25 South Market Street,"Montpelier, VT",-76.503443,40.109165,MJY
+549,Station Building (with waiting room),TRAIN,53221,WI,Milwaukee,5601 South 6th Street,General Mitchell Int'l Airport,-87.924359,42.940583,MKA
+551,Station Building (with waiting room),TRAIN,53203,WI,Milwaukee,433 West St. Paul Avenue,Intermodal Station,-87.917104,43.034518,MKE
+552,Platform with Shelter,TRAIN,38646,MS,Marks,285 Cherry St,"Marks, MS",-90.272342,34.258227,MKS
+556,Platform with Shelter,TRAIN,25136,WV,Montgomery,Third Avenue and Washington Street,"Manning, SC",-81.32403,38.180743,MNG
+561,Station Building (with waiting room),TRAIN,95355,CA,Modesto,1700 Held Drive,Modesto,-120.912913,37.668951,MOD
+565,Station Building (with waiting room),TRAIN,58701,ND,Minot,400 1st Avenue S.W.,Minot,-101.298557,48.236083,MOT
+567,Platform only (no shelter),TRAIN,93021,CA,Moorpark,300 High Street,"Monterey Park, CA",-118.878059,34.28476,MPK
+569,Station Building (with waiting room),TRAIN,5602,VT,Montpelier,297 Junction Road,"Mount Pleasant, IA",-72.606394,44.255749,MPR
+572,Station Building (with waiting room),TRAIN,25401,WV,Martinsburg,229 East Martin Street,Martinsburg,-77.961014,39.458661,MRB
+573,Station Building (with waiting room),TRAIN,85138,AZ,Maricopa,44605 West Mercado Street,Maricopa,-112.047592,33.056191,MRC
+580,Station Building (with waiting room),TRAIN,55101,MN,St. Paul,240 Kellogg Boulevard East,Union Depot,-93.085355,44.947661,MSP
+581,Station Building (with waiting room),TRAIN,20110,VA,Manassas,9431 West Street,"Massena, NY",-77.472577,38.750084,MSS
+584,Station Building (with waiting room),TRAIN,52641,IA,Mount Pleasant,418 North Adams Street,Mount Pleasant,-91.550772,40.971179,MTP
+585,Station Building (with waiting room),TRAIN,H3B 4G1,QC,Montreal,895 rue de la Gauchetiere ouest,Gare Centrale / Central Station,-73.565767,45.500169,MTR
+586,Station Building (with waiting room),TRAIN,94553,CA,Martinez,601 Marina Vista Avenue,Martinez,-122.138784,38.018921,MTZ
+588,Platform with Shelter,TRAIN,72104,AR,Malvern,200 East First Street,Malvern,-92.814018,34.365484,MVN
+589,Station Building (with waiting room),TRAIN,98273,WA,Mount Vernon,105 East Kincaid Street,"Mount Vernon, WA",-122.334738,48.41847,MVW
+594,Station Building (with waiting room),TRAIN,6355,CT,Mystic,2 Roosevelt Avenue,"Mystic, CT",-71.963093,41.350934,MYS
+596,Curbside Bus Stop only (no shelter),TRAIN,93955,CA,Seaside-Marina,5101 4th Avenue,CSU-Monterey Bay,-121.801379,36.653516,MYU
+600,Station Building (with waiting room),TRAIN,8901,NJ,New Brunswick,French and Albany Streets,New Brunswick,-74.446265,40.496522,NBK
+601,Station Building (with waiting room),TRAIN,38059,TN,Newbern,108 Jefferson St,"Newbern-Dyersburg, TN",-89.262264,36.112711,NBN
+603,Platform with Shelter,TRAIN,49117,MI,New Buffalo,226 North Whittaker Street,New Buffalo,-86.745782,41.796656,NBU
+605,Station Building (with waiting room),TRAIN,20784,MD,New Carrollton,4300 Garden City Drive,New Carrollton,-76.871494,38.948098,NCR
+607,Station Building (with waiting room),TRAIN,92363,CA,Needles,950 Front Street,"Needles, CA",-114.606188,34.840616,NDL
+608,Station Building (with waiting room),TRAIN,67114,KS,Newton,414 North Main Street,Newton,-97.344886,38.046976,NEW
+610,Station Building (with waiting room),TRAIN,23510,VA,Norfolk,280 Park Avenue,"Norfolk, VA",-76.276195,36.843509,NFK
+611,Station Building (with waiting room),TRAIN,14305,NY,Niagara Falls,825 Depot Avenue West,Niagara Falls,-79.055276,43.109908,NFL
+612,Station Building (with waiting room),TRAIN,L2E 2R6,ON,Niagara Falls,4267 Bridge Street,"Niota, TN",-79.063291,43.108736,NFS
+614,Platform with Shelter,TRAIN,1060,MA,Northampton,170 Pleasant Street,Northampton,-72.626379,42.318858,NHT
+615,Station Building (with waiting room),TRAIN,6519,CT,New Haven,50 Union Avenue,Union Station,-72.92667,41.297714,NHV
+616,Platform only (no shelter),TRAIN,70560,LA,New Iberia,402 West Washington Street,"Niles, MI",-91.823809,30.008415,NIB
+617,Station Building (with waiting room),TRAIN,6320,CT,New London,27 Water Street,Union Station,-72.093225,41.354267,NLC
+618,Station Building (with waiting room),TRAIN,49120,MI,Niles,598 Dey Street,Niles,-86.252372,41.837412,NLS
+619,Station Building (with waiting room),TRAIN,70113,LA,New Orleans,1001 Loyola Avenue,Union Passenger Terminal,-90.078291,29.946085,NOL
+620,Station Building (with waiting room),TRAIN,73069,OK,Norman,200 South Jones Avenue,"Norman, OK",-97.443013,35.219963,NOR
+622,Station Building (with waiting room),TRAIN,23601,VA,Newport News,9304 Warwick Boulevard,"Newport News, VA",-76.45197,37.022731,NPN
+624,Station Building (with waiting room),TRAIN,60540,IL,Naperville,105 E. Fourth Ave.,Naperville,-88.145497,41.779514,NPV
+625,Station Building (with waiting room),TRAIN,91324,CA,Los Angeles,8775 Wilbur Ave,"Newburgh, NY",-118.545417,34.230659,NRG
+626,Platform with Shelter,TRAIN,19713,DE,Newark,10 Mopar Drive,"Newark, DE",-75.753513,39.669686,NRK
+627,Station Building (with waiting room),TRAIN,10801,NY,New Rochelle,1 Railroad Plaza,"Charlottesville, VA",-73.784329,40.911451,NRO
+628,Platform only (no shelter),TRAIN,27607,NC,Raleigh,1025 Blue Ridge Road,"New Smyrna Beach, FL",-78.706292,35.794203,NSF
+631,Station Building (with waiting room),TRAIN,2740,MA,New Bedford,134 Elm Street,SRTA Bus Terminal,-70.927564,41.636026,NWB
+633,Station Building (with waiting room),TRAIN,7102,NJ,Newark,1 Raymond Plaza West,Penn Station,-74.16475,40.734706,NWK
+635,Platform with Shelter,TRAIN,13209,NY,Syracuse,581 State Fair Boulevard,"New York Penn Station, NY",-76.229473,43.071924,NYF
+636,Station Building (with waiting room),TRAIN,10001,NY,New York,351 West 31st Street,Moynihan Train Hall at Penn Sta.,-73.996327,40.751038,NYP
+637,Platform with Shelter,TRAIN,94621,CA,Oakland,700 73rd Avenue,Coliseum/Airport Station,-122.198147,37.752499,OAC
+645,Station Building (with waiting room),TRAIN,73102,OK,Oklahoma City,100 South E.K. Gaylord Boulevard,Oklahoma City,-97.512749,35.46549,OKC
+646,Platform with Shelter,TRAIN,34972,FL,Okeechobee,801 North Parrott Avenue,"Okeechobee, FL",-80.830812,27.251867,OKE
+647,Station Building (with waiting room),TRAIN,94607,CA,Oakland,245 Second Street,Jack London Square Station,-122.271667,37.793866,OKJ
+648,Station Building (with waiting room),TRAIN,L6J 2W6,ON,Oakville,200 Cross Avenue,"Oakland, CA",-79.682392,43.455394,OKL
+650,Platform only (no shelter),TRAIN,92110,CA,San Diego,4005 Taylor Street,Old Town Transportation Center,-117.200073,32.755266,OLT
+651,Station Building (with waiting room),TRAIN,98513,WA,Lacey,6600 Yelm Highway SE,Olympia-Lacey,-122.794059,46.991273,OLW
+652,Station Building (with waiting room),TRAIN,68108,NE,Omaha,1003 South 9th Street,Omaha,-95.92865,41.249828,OMA
+653,Platform only (no shelter),TRAIN,91764,CA,Ontario,198 East Emporia Street,"Ontario, CA",-117.649569,34.061672,ONA
+655,Platform only (no shelter),TRAIN,4064,ME,Old Orchard Beach,11 First Street,"Ormond Beach, FL",-70.376225,43.514326,ORB
+656,Platform with Shelter,TRAIN,97045,OR,Oregon City,1757 Washington Street,"Orcutt, CA",-122.595925,45.366146,ORC
+657,Station Building (with waiting room),TRAIN,32806,FL,Orlando,1400 Sligh Boulevard,Orlando,-81.381516,28.525926,ORL
+660,Station Building (with waiting room),TRAIN,6475,CT,Old Saybrook,455 Boston Post Road,"Oshkosh, WI",-72.376818,41.30039,OSB
+661,Station Building (with waiting room),TRAIN,50213,IA,Osceola,Main & East Clay Streets,Osceola,-93.764894,41.037116,OSC
+662,Station Building (with waiting room),TRAIN,92054,CA,Oceanside,235 South Tremont Street,"Osage, IA",-117.37943,33.192515,OSD
+666,Station Building (with waiting room),TRAIN,52501,IA,Ottumwa,210 West Main Street,Ottumwa,-92.414929,41.018815,OTM
+669,Station Building (with waiting room),TRAIN,93030,CA,Oxnard,201 East Fourth Street,Oxnard,-119.175978,34.199241,OXN
+671,Platform with Shelter,TRAIN,32177,FL,Palatka,220 North 11th Street,"Pahokee, FL",-81.640471,29.649734,PAK
+672,Station Building (with waiting room),TRAIN,19301,PA,Paoli,13 Lancaster Avenue,Paoli,-75.48376,40.042754,PAO
+673,Platform with Shelter,TRAIN,19365,PA,Parkesburg,501 Maple Street,"Parkersburg, WV",-75.922123,39.95918,PAR
+675,Station Building (with waiting room),TRAIN,63901,MO,Poplar Bluff,400 South Main Street,Poplar Bluff,-90.393341,36.753995,PBF
+677,Station Building (with waiting room),TRAIN,61356,IL,Princeton,107 Bicentennial Drive,"Princeton, NJ",-89.466815,41.385191,PCT
+682,Station Building (with waiting room),TRAIN,97209,OR,Portland,800 NW Sixth Avenue,Portland Union Station,-122.676806,45.528724,PDX
+685,Station Building (with waiting room),TRAIN,15222,PA,Pittsburgh,1100 Liberty Avenue,Union Station,-79.992307,40.444738,PGH
+688,Station Building (with waiting room),TRAIN,19104,PA,Philadelphia,2955 Market Street,William H Gray III 30th St. Sta.,-75.181041,39.955615,PHL
+689,Station Building (with waiting room),TRAIN,19132,PA,Philadelphia,2900 North Broad Street,North Philadelphia,-75.155114,39.99678,PHN
+691,Station Building (with waiting room),TRAIN,39466,MS,Picayune,200 Highway 11 South,"Picayune, MS",-89.68026,30.524606,PIC
+692,Station Building (with waiting room),TRAIN,1201,MA,Pittsfield,1 Columbus Avenue,Pittsfield,-73.2538,42.451558,PIT
+694,Station Building (with waiting room),TRAIN,8550,NJ,Princeton Junction,2 Wallace Circle,Princeton Junction,-74.623976,40.31585,PJC
+696,Station Building (with waiting room),TRAIN,12901,NY,Plattsburgh,Bridge and Dock Streets,Plattsburgh,-73.446284,44.696728,PLB
+698,Station Building (with waiting room),TRAIN,60545,IL,Plano,101 West Main Street,"Plattsburgh, NY",-88.538272,41.662384,PLO
+700,Platform with Shelter,TRAIN,94566,CA,Pleasanton,4950 Pleasanton Avenue,"Palatka, FL",-121.882639,37.658152,PLS
+703,Platform with Shelter,TRAIN,8110,NJ,Pennsauken,215 Derousse Avenue,"Pinkerton, CO",-75.062022,39.978052,PNK
+704,Station Building (with waiting room),TRAIN,48342,MI,Pontiac,51000 Woodward Avenue,"Pontiac, MI",-83.292325,42.632771,PNT
+705,Platform with Shelter,TRAIN,53901,WI,Portage,400 West Oneida Street,"Poplar Bluff, MO",-89.467627,43.547079,POG
+706,Station Building (with waiting room),TRAIN,12974,NY,Port Henry,20 Park Place,"Portsmouth, NH",-73.458753,44.042297,POH
+707,Station Building (with waiting room),TRAIN,61764,IL,Pontiac,711 West Water Street,Pontiac,-88.637198,40.878687,PON
+708,Station Building (with waiting room),TRAIN,4102,ME,Portland,100 Thompson's Point Road,Portland Transportation Center,-70.291258,43.654097,POR
+709,Platform only (no shelter),TRAIN,91768,CA,Pomona,100 West Commercial Street,"Possum Kingdom, TX",-117.750621,34.059224,POS
+710,Station Building (with waiting room),TRAIN,12601,NY,Poughkeepsie,41 Main Street,Poughkeepsie,-73.93749,41.707056,POU
+711,Platform only (no shelter),TRAIN,93446,CA,Paso Robles,800 Pine Street,"Paso Robles, CA",-120.68786,35.622683,PRB
+712,Station Building (with waiting room),TRAIN,25907,WV,Prince,5034 Stanaford Road,"Prescott, AZ",-81.060694,37.856594,PRC
+715,Platform only (no shelter),TRAIN,12975,NY,Port Kent,NY 373 and Lake Street,"Park Ridge, IL",-73.403536,44.524079,PRK
+716,Platform with Shelter,TRAIN,84601,UT,Provo,300 West 600 South,Provo,-111.664001,40.225957,PRO
+717,Station Building (with waiting room),TRAIN,99301,WA,Pasco,535 North 1st Avenue,Pasco,-119.087729,46.237012,PSC
+719,Platform with Shelter,TRAIN,92262,CA,Palm Springs,North Indian Canyon Drive and Palm Springs Station Road,Palm Springs,-116.547913,33.897491,PSN
+724,Station Building (with waiting room),TRAIN,23803,VA,Petersburg,3516 South Street,"Petersburg, VA",-77.428794,37.241627,PTB
+727,Station Building (with waiting room),TRAIN,48060,MI,Port Huron,2223 16th Street,Port Huron,-82.443805,42.960419,PTH
+734,Station Building (with waiting room),TRAIN,73080,OK,Purcell,East Main Street and North Santa Fe Avenue,"Purcell, OK",-97.357416,35.012033,PUR
+735,Station Building (with waiting room),TRAIN,2903,RI,Providence,100 Gaspee Street,Amtrak/MBTA Station,-71.413478,41.82949,PVD
+737,Station Building (with waiting room),TRAIN,73075,OK,Pauls Valley,South Santa Fe Street and East Paul Avenue,"Perris, CA",-97.21846,34.741735,PVL
+741,Platform with Shelter,TRAIN,22134,VA,Quantico,550 Railroad Avenue,"Quantico, VA",-77.293027,38.521882,QAN
+742,Station Building (with waiting room),TRAIN,62301,IL,Quincy,North 30th Street and Wisman Lane,Quincy,-91.368525,39.957063,QCY
+744,Station Building (with waiting room),TRAIN,87740,NM,Raton,201 South First Street,"Raton, NM",-104.437886,36.901072,RAT
+748,Platform with Shelter,TRAIN,96001,CA,Redding,1620 Yuba Street,Redding,-122.39337,40.583595,RDD
+753,Station Building (with waiting room),TRAIN,55066,MN,Red Wing,420 Levee Street,Red Wing,-92.537066,44.566214,RDW
+755,Platform with Shelter,TRAIN,47978,IN,Rensselaer,776 North Cullen Street,Rensselaer,-87.155121,40.943281,REN
+756,Station Building (with waiting room),TRAIN,27603,NC,Raleigh,510 West Martin Street,Union Station,-78.647784,35.777209,RGH
+757,Station Building (with waiting room),TRAIN,12574,NY,Rhinecliff,455 Rhinecliff Road ,"Rhinelander, WI",-73.951278,41.921346,RHI
+758,Platform with Shelter,TRAIN,94801,CA,Richmond,1700 Nevin Avenue,"Richmond, VA",-122.35413,37.936752,RIC
+760,Platform with Shelter,TRAIN,92507,CA,Riverside,4066 Vine Street,Riverside,-117.369988,33.97567,RIV
+763,Platform with Shelter,TRAIN,20850,MD,Rockville,307 South Stonestreet Avenue,Rockville,-77.145995,39.084547,RKV
+764,Station Building (with waiting room),TRAIN,95677,CA,Rocklin,Rocklin Rd. and Railroad Ave.,"Rollinsford, NH",-121.237299,38.791006,RLN
+766,Station Building (with waiting room),TRAIN,27804,NC,Rocky Mount,101 Coastline Street,Rocky Mount,-77.797855,35.938001,RMT
+767,Platform with Shelter,TRAIN,24011,VA,Roanoke,55 Norfolk Avenue SW,"Roanoke, VA",-79.941795,37.273185,RNK
+768,Station Building (with waiting room),TRAIN,89501,NV,Reno,280 North Center Street,Reno,-119.812123,39.528521,RNO
+771,Station Building (with waiting room),TRAIN,14605,NY,Rochester,320 Central Avenue,Louise M. Slaughter Station,-77.608057,43.163411,ROC
+773,Station Building (with waiting room),TRAIN,13440,NY,Rome,6599 Martin Street,Rome,-75.44996,43.199425,ROM
+774,Platform with Shelter,TRAIN,48069,MI,Royal Oak,202 South Sherman Drive,"Royal Oak, MI",-83.14701,42.488439,ROY
+776,Platform only (no shelter),TRAIN,5060,VT,Randolph,South Main and Salisbury Streets,"Rensselaer, NY",-72.665459,43.922398,RPH
+779,Platform only (no shelter),TRAIN,12979,NY,Rouses Point,68 Pratt Street,"Roseville, CA",-73.371093,44.99487,RSP
+780,Platform with Shelter,TRAIN,95678,CA,Roseville,201 Pacific Street,"Reserve, LA",-121.286286,38.750016,RSV
+783,Station Building (with waiting room),TRAIN,2090,MA,Westwood,50 University Avenue,"Raton, NM",-71.147894,42.210242,RTE
+784,Platform with Shelter,TRAIN,61866,IL,Rantoul,East Grove Ave and North Kentucky Ave.,Rantoul,-88.159126,40.310905,RTL
+786,Station Building (with waiting room),TRAIN,5701,VT,Rutland,25 Evelyn Street,James M Jeffords Station ,-72.981538,43.605756,RUD
+787,Station Building (with waiting room),TRAIN,58368,ND,Rugby,201 West Dewey Street,"Rugby, ND",-99.997556,48.369846,RUG
+788,Station Building (with waiting room),TRAIN,23219,VA,Richmond,1500 East Main Street,Main Street Station,-77.429512,37.534209,RVM
+789,Station Building (with waiting room),TRAIN,23228,VA,Richmond,7519 Staples Mill Road,Staples Mill Road Station,-77.496943,37.617693,RVR
+791,Station Building (with waiting room),TRAIN,5478,VT,St Albans,40 Federal Street,"Saco, ME",-73.086191,44.81236,SAB
+792,Station Building (with waiting room),TRAIN,95814,CA,Sacramento,401 I Street,Sacramento Valley Station,-121.500704,38.584004,SAC
+795,Station Building (with waiting room),TRAIN,28144,NC,Salisbury,215 Depot Street,Salem,-80.466323,35.667496,SAL
+796,Station Building (with waiting room),TRAIN,92101,CA,San Diego,1050 Kettner Boulevard,San Diego Santa Fe Depot,-117.169576,32.716169,SAN
+797,Station Building (with waiting room),TRAIN,4072,ME,Saco,138 Main Street,"San Antonio, TX",-70.449139,43.496191,SAO
+799,Station Building (with waiting room),TRAIN,12866,NY,Saratoga Springs,26 Station Lane,Saratoga Springs,-73.810027,43.08281,SAR
+800,Station Building (with waiting room),TRAIN,78205,TX,San Antonio,350 Hoefgen Street,"Sasabe, AZ",-98.478143,29.41935,SAS
+802,Station Building (with waiting room),TRAIN,31401,GA,Savannah,2611 Seaboard Coastline Drive,Savannah,-81.148264,32.083412,SAV
+804,Station Building (with waiting room),TRAIN,93101,CA,Santa Barbara,209 State Street,Santa Barbara,-119.692785,34.413718,SBA
+805,Station Building (with waiting room),TRAIN,33870,FL,Sebring,601 East Center Avenue,Stroudsburg,-81.434202,27.496632,SBG
+808,Station Building (with waiting room),TRAIN,59474,MT,Shelby,230 West Central Avenue,Shelby,-111.856649,48.506748,SBY
+809,Station Building (with waiting room),TRAIN,L2S 2K3,ON,St. Catharines,5 Great Western St.,"Santa Clara, CA",-79.256017,43.147829,SCA
+810,Platform with Shelter,TRAIN,95050,CA,Santa Clara,1001 Railroad Avenue,Transit Center,-121.936576,37.353219,SCC
+811,Station Building (with waiting room),TRAIN,56304,MN,St. Cloud,555 East Saint Germain Street,St. Cloud,-94.149093,45.567748,SCD
+812,Platform only (no shelter),TRAIN,70395,LA,Schriever,145 Burlington Court,"Schenectady, NY",-90.815246,29.746678,SCH
+816,Station Building (with waiting room),TRAIN,70458,LA,Slidell,1827 Front Street,"Sandusky, OH",-89.782565,30.278372,SDL
+817,Station Building (with waiting room),TRAIN,12305,NY,Schenectady,332 Erie Boulevard,Schenectady,-73.942892,42.814724,SDY
+818,Station Building (with waiting room),TRAIN,98104,WA,Seattle,303 South Jackson Street,Seattle King Street Station,-122.330161,47.598445,SEA
+819,Station Building (with waiting room),TRAIN,65301,MO,Sedalia,Pacific Street and North Osage Avenue,"Sedalia, MO",-93.228706,38.711604,SED
+821,Station Building (with waiting room),TRAIN,32771,FL,Sanford,600 South Persimmon Avenue,Auto Train Station,-81.291274,28.808544,SFA
+827,Platform only (no shelter),TRAIN,93063,CA,Simi Valley,5050 Los Angeles Avenue,"Simsbury, CT",-118.695163,34.270204,SIM
+828,Station Building (with waiting room),TRAIN,95110,CA,San Jose,65 Cahill Street,San Jose Diridon Station,-121.902388,37.329933,SJC
+829,Station Building (with waiting room),TRAIN,49085,MI,St. Joseph,410 1/2 Vine Street,St. Joseph,-86.484484,42.10908,SJM
+832,Station Building (with waiting room),TRAIN,95203,CA,Stockton,735 South San Joaquin Street,Stockton,-121.285632,37.945468,SKN
+833,Platform with Shelter,TRAIN,95202,CA,Stockton,949 East Channel St.,Robert J. Cabral Station,-121.279,37.957038,SKT
+835,Station Building (with waiting room),TRAIN,44870,OH,Sandusky,1200 North Depot Street,"Skykomish, WA",-82.717866,41.440671,SKY
+837,Station Building (with waiting room),TRAIN,84101,UT,Salt Lake City,340 South 600 West,Salt Lake City Union Station,-111.908349,40.761661,SLC
+841,Station Building (with waiting room),TRAIN,97301,OR,Salem,500 13th Street SE,Salem,-123.028331,44.932331,SLM
+842,Station Building (with waiting room),TRAIN,93401,CA,San Luis Obispo,1011 Railroad Avenue,San Luis Obispo,-120.654701,35.276434,SLO
+844,Station Building (with waiting room),TRAIN,J4P 2G5,QC,St-Lambert,329 avenue St-Denis,"Seligman, AZ",-73.507287,45.498896,SLQ
+848,Platform with Shelter,TRAIN,78666,TX,San Marcos,338 South Guadalupe Street,"Santa Monica, CA",-97.941049,29.876571,SMC
+853,Platform with Shelter,TRAIN,60501,IL,Summit,Archer Avenue and South Center Avenue,Summit,-87.809742,41.794912,SMT
+854,Station Building (with waiting room),TRAIN,92701,CA,Santa Ana,1000 East Santa Ana Boulevard,Santa Ana,-117.856607,33.751629,SNA
+855,Station Building (with waiting room),TRAIN,92410,CA,San Bernardino,1170 West Third Street,San Bernardino,-117.310659,34.104112,SNB
+856,Station Building (with waiting room),TRAIN,92675,CA,San Juan Capistrano,26701 Verdugo Street,"Schroon Lake, NY",-117.663813,33.501318,SNC
+857,Platform only (no shelter),TRAIN,79848,TX,Sanderson,201 West Downie Street,"Sandpoint, ID",-102.398746,30.139951,SND
+858,Platform only (no shelter),TRAIN,92672,CA,San Clemente,615 Avenida Victoria,"San Pedro, CA",-117.619733,33.419645,SNP
+860,Station Building (with waiting room),TRAIN,93901,CA,Salinas,11 Station Place,Salinas,-121.656745,36.679145,SNS
+862,Station Building (with waiting room),TRAIN,46628,IN,South Bend,2702 West Washington Street,"South Bend, IN",-86.287345,41.67836,SOB
+863,Station Building (with waiting room),TRAIN,92075,CA,Solana Beach,105 North Cedros Avenue,"Solana Beach, CA",-117.271135,32.992937,SOL
+864,Station Building (with waiting room),TRAIN,28387,NC,Southern Pines,235 Northwest Broad Street,"Southern Pines, NC",-79.390303,35.175069,SOP
+867,Station Building (with waiting room),TRAIN,29303,SC,Spartanburg,290 Magnolia Street,Spartanburg,-81.936917,34.953736,SPB
+869,Station Building (with waiting room),TRAIN,1103,MA,Springfield,55 Frank B. Murray Street,Springfield Union Station,-72.592905,42.105987,SPG
+870,Station Building (with waiting room),TRAIN,62701,IL,Springfield,100 North Third Street,Springfield,-89.651384,39.802323,SPI
+871,Station Building (with waiting room),TRAIN,99201,WA,Spokane,221 West 1st Avenue,Spokane,-117.415455,47.65672,SPK
+872,Station Building (with waiting room),TRAIN,56479,MN,Staples,First Avenue N.E. and Fourth Street N.E.,"Spokane, WA",-94.795331,46.354601,SPL
+873,Platform with Shelter,TRAIN,41174,KY,South Shore,Main Street & US 23,"Springfield, MA",-82.963751,38.721281,SPM
+875,Platform with Shelter,TRAIN,83864,ID,Sandpoint,450 Railroad Depot Rd,Sandpoint,-116.32462,48.16358,SPT
+885,Station Building (with waiting room),TRAIN,27576,NC,Selma,500 East Railroad Street,"St. Simons Island, GA",-78.280099,35.532786,SSM
+887,Station Building (with waiting room),TRAIN,24401,VA,Staunton,1 Middlebrook Avenue,"Staunton, VA",-79.071776,38.147639,STA
+891,Station Building (with waiting room),TRAIN,63103,MO,St. Louis,430 South 15th Street,Gateway Station,-90.203973,38.624195,STL
+892,Station Building (with waiting room),TRAIN,6902,CT,Stamford,Washington Blvd and South State Street,"Stamford, CT",-73.54216,41.04713,STM
+893,Station Building (with waiting room),TRAIN,58784,ND,Stanley,Main Street & Railroad Avenue,Stamford,-102.389379,48.319813,STN
+896,Station Building (with waiting room),TRAIN,6519,CT,New Haven,259 State Street,State Street Station,-72.922086,41.305253,STS
+897,Platform only (no shelter),TRAIN,98292,WA,Stanwood,27111 Florence Way,"Stewart, MN",-122.349935,48.242638,STW
+898,Station Building (with waiting room),TRAIN,94585,CA,Suisun City,177 Main Street,"Suisun-Fairfield, CA",-122.041099,38.243401,SUI
+904,Station Building (with waiting room),TRAIN,53177,WI,Sturtevant,9900 East Exploration Court,"Sevierville, TN",-87.9063,42.718292,SVT
+911,Station Building (with waiting room),TRAIN,13208,NY,Syracuse,1 Walsh Circle,Regional Transportation Center,-76.169244,43.076548,SYR
+913,Station Building (with waiting room),TRAIN,98421,WA,Tacoma,422 East 25th Street,Tacoma,-122.428099,47.239803,TAC
+914,Platform only (no shelter),TRAIN,76574,TX,Taylor,118 East First Street,"Taylor, TX",-97.407763,30.567667,TAY
+915,Station Building (with waiting room),TRAIN,30577,GA,Toccoa,47 North Alexander Street,"Tucson, AZ",-83.331542,34.578456,TCA
+916,Station Building (with waiting room),TRAIN,35401,AL,Tuscaloosa,2105 Greensboro Avenue,Tuscaloosa,-87.560228,33.193165,TCL
+922,Platform with Shelter,TRAIN,25936,WV,Thurmond,Hwy 25 & Hwy 2,"Thief River Falls, MN",-81.078754,37.956986,THN
+924,Station Building (with waiting room),TRAIN,54660,WI,Tomah,North Superior Avenue and Washington Street,"Toledo, OH",-90.505331,43.986007,TOH
+925,Station Building (with waiting room),TRAIN,43604,OH,Toledo,415 Emerald Avenue,"Tolland, CT",-83.541721,41.638345,TOL
+926,Station Building (with waiting room),TRAIN,66607,KS,Topeka,500 SE Holliday Place,Topeka,-95.664916,39.051415,TOP
+927,Station Building (with waiting room),TRAIN,33602,FL,Tampa,601 North Nebraska Avenue ,Union Station,-82.450777,27.952492,TPA
+928,Station Building (with waiting room),TRAIN,76501,TX,Temple,315 West Avenue B,"Temple, TX",-97.345792,31.095883,TPL
+931,Platform with Shelter,TRAIN,95377,CA,Tracy,4800 Tracy Boulevard,ACE Station,-121.43397,37.696211,TRC
+932,Station Building (with waiting room),TRAIN,8609,NJ,Trenton,72 South Clinton Avenue,Trenton Transit Center,-74.75444,40.219011,TRE
+934,Platform only (no shelter),TRAIN,81082,CO,Trinidad,110 West Pine Street,"Trinidad, CO",-104.507981,37.172688,TRI
+935,Platform with Shelter,TRAIN,95316,CA,Denair,3800 Santa Fe Avenue,"Truckee, CA",-120.798009,37.527229,TRK
+936,Station Building (with waiting room),TRAIN,48084,MI,Troy,1201 Doyle Drive,"Thermal, CA",-83.191026,42.542555,TRM
+938,Station Building (with waiting room),TRAIN,96161,CA,Truckee,10065 Donner Pass Road,Truckee,-120.185387,39.327616,TRU
+943,Platform with Shelter,TRAIN,98188,WA,Tukwila,7301 Longacres Way,"Tukwila, WA",-122.240254,47.461081,TUK
+944,Station Building (with waiting room),TRAIN,85701,AZ,Tucson,400 North Toole Avenue,Tucson,-110.96677,32.222977,TUS
+947,Station Building (with waiting room),TRAIN,M5J 1E7,ON,Toronto,65 Front Street West,Union Station,-79.380762,43.645427,TWO
+948,Station Building (with waiting room),TRAIN,71854,AR,Texarkana,100 East Front Street,"Texarkana, AR",-94.043082,33.420067,TXA
+950,Platform with Shelter,TRAIN,16686,PA,Tyrone,Pennsylvania Avenue and West 10th Street,Tyrone,-78.24047,40.667705,TYR
+951,Station Building (with waiting room),TRAIN,13501,NY,Utica,321 Main Street,"Utica, NY",-75.223434,43.103892,UCA
+955,Station Building (with waiting room),TRAIN,V6A 4C7,BC,Vancouver,1150 Station Street,Pacific Central Station,-123.098336,49.273757,VAC
+958,Station Building (with waiting room),TRAIN,98660,WA,Vancouver,1301 West 11th Street,Vancouver,-122.686544,45.628901,VAN
+959,Platform with Shelter,TRAIN,94550,CA,Livermore,575 South Vasco Road,Vasco Road ACE Station,-121.718346,37.696986,VAS
+961,Platform with Shelter,TRAIN,93001,CA,Ventura,39 East Harbor Blvd,"Ventura, CA",-119.299918,34.276929,VEC
+967,Station Building (with waiting room),TRAIN,91405,CA,Van Nuys,7724 Van Nuys Boulevard,Van Nuys,-118.448206,34.211294,VNC
+968,Station Building (with waiting room),TRAIN,5456,VT,Ferrisburgh,49 Park Lane,"Verona, MS",-73.248824,44.180921,VRN
+969,Platform only (no shelter),TRAIN,92395,CA,Victorville,16858 South D Street,Amtrak Station,-117.292956,34.5372,VRV
+971,Station Building (with waiting room),TRAIN,5676,VT,Waterbury,US Highway 2 and Park Row,"Wabash, IN",-72.751806,44.335011,WAB
+972,Platform with Shelter,TRAIN,93280,CA,Wasco,700 G Street,"Waco, TX",-119.332309,35.594092,WAC
+974,Station Building (with waiting room),TRAIN,63090,MO,Washington,301 West Front Street,"Waukegan, IL",-91.012717,38.561466,WAH
+975,Station Building (with waiting room),TRAIN,64093,MO,Warrensburg,100 South Holden Street,Warrensburg,-93.7409,38.76275,WAR
+976,Station Building (with waiting room),TRAIN,20002,DC,Washington,50 Massachusetts Avenue NE,Union Station,-77.006422,38.896993,WAS
+978,Station Building (with waiting room),TRAIN,23185,VA,Williamsburg,468 North Boundary Street,"Williamsburg, VA",-76.708564,37.276414,WBG
+982,Platform with Shelter,TRAIN,22194,VA,Woodbridge,1040 Express Way,"Woodbridge, VA",-77.247852,38.658915,WDB
+983,Station Building (with waiting room),TRAIN,53965,WI,Wisconsin Dells,100 LaCrosse Street,"Woodlawn, MD",-89.777451,43.626509,WDL
+988,Station Building (with waiting room),TRAIN,4090,ME,Wells,696 Sanford Road,"Wemyss Bay, Scotland",-70.612192,43.320836,WEM
+989,Platform with Shelter,TRAIN,98801,WA,Wenatchee,1 Kittitas Street,Wenatchee,-120.306552,47.421556,WEN
+991,Platform with Shelter,TRAIN,6492,CT,Wallingford,343 North Cherry St.  ,"Wallingford, CT",-72.825221,41.456969,WFD
+992,Station Building (with waiting room),TRAIN,59937,MT,Whitefish,500 Depot Street,Whitefish,-114.335575,48.413474,WFH
+994,Platform only (no shelter),TRAIN,59936,MT,West Glacier,12544 US Highway 2 East,"West Glacier, MT",-113.979164,48.496218,WGL
+995,Platform only (no shelter),TRAIN,12887,NY,Whitehall,154 Main Street,"Whitehall, NY",-73.403207,43.554694,WHL
+998,Platform only (no shelter),TRAIN,98673,WA,Wishram,1 Railroad Avenue,"Wichita, KS",-120.966142,45.657669,WIH
+999,Station Building (with waiting room),TRAIN,19801,DE,Wilmington,100 South French Street,Wilmington,-75.551095,39.737263,WIL
+1000,Platform with Shelter,TRAIN,55987,MN,Winona,65 East Mark Street,Winona,-91.640073,44.044404,WIN
+1001,Platform with Shelter,TRAIN,80442,CO,Fraser,205 Fraser Avenue,"Wisconsin Dells, WI",-105.817388,39.947566,WIP
+1006,Station Building (with waiting room),TRAIN,27893,NC,Wilson,401 East Nash Street,"Willmar, MN",-77.908029,35.723135,WLN
+1007,Platform with Shelter,TRAIN,86047,AZ,Winslow,303 East Second Street (Route 66),"Waterloo, IA",-110.694981,35.021666,WLO
+1008,Platform with Shelter,TRAIN,2891,RI,Westerly,14 Railroad Avenue,Westerly,-71.82978,41.381081,WLY
+1009,Station Building (with waiting room),TRAIN,86046,AZ,Williams,233 North Grand Canyon Blvd,Grand Canyon Railway Depot,-112.190106,35.25195,WMA
+1013,Platform with Shelter,TRAIN,6095,CT,Windsor,41 Central Street,"Windham, CT",-72.642253,41.852013,WND
+1014,Platform with Shelter,TRAIN,6096,CT,Windsor Locks,South Main Street at Stanton Road,Windsor Locks,-72.626101,41.913956,WNL
+1015,Platform only (no shelter),TRAIN,5089,VT,Windsor,26 Depot Avenue,"Winslow, AZ",-72.384985,43.479908,WNM
+1016,Platform with Shelter,TRAIN,89445,NV,Winnemucca,209 Railroad Street,Winnemucca,-117.73221,40.969044,WNN
+1017,Station Building (with waiting room),TRAIN,72476,AR,Walnut Ridge,109 Southwest Front Street,"Warner Robins, GA",-90.956766,36.06766,WNR
+1020,Station Building (with waiting room),TRAIN,1801,MA,Woburn,100 Atlantic Avenue,"Woodbridge, VA",-71.143823,42.517358,WOB
+1021,Station Building (with waiting room),TRAIN,1604,MA,Worcester,2 Washington Square,Union Station,-71.794812,42.261478,WOR
+1022,Station Building (with waiting room),TRAIN,33401,FL,West Palm Beach,209 South Tamarind Avenue,West Palm Beach,-80.062184,26.712554,WPB
+1023,Station Building (with waiting room),TRAIN,32789,FL,Winter Park,148 West Morse Boulevard,"Winter Park, FL",-81.351993,28.597099,WPK
+1024,Platform with Shelter,TRAIN,80402,CO,Winter Park,85 Parsenn Road,Winter Park Resort Trn Platform,-105.763245,39.887584,WPR
+1026,Station Building (with waiting room),TRAIN,59201,MT,Wolf Point,320 Front Street,"Westport, WA",-105.642736,48.091672,WPT
+1027,Station Building (with waiting room),TRAIN,5001,VT,White River Junction,102 Railroad Row,White River Junction,-72.317272,43.647785,WRJ
+1029,Station Building (with waiting room),TRAIN,6498,CT,Westbrook,101 Norris Avenue,"Williamsburg, VA",-72.448,41.288787,WSB
+1031,Station Building (with waiting room),TRAIN,12993,NY,Westport,6705 Main Street,Westport,-73.451773,44.187288,WSP
+1032,Platform with Shelter,TRAIN,24986,WV,White Sulphur Springs,315 West Main Street,"White Sulphur Springs, WV",-80.304004,37.786443,WSS
+1035,Station Building (with waiting room),TRAIN,33880,FL,Winter Haven,1800 7th Street SW,"Winter Haven, FL",-81.734878,28.002146,WTH
+1036,Station Building (with waiting room),TRAIN,46793,IN,Waterloo,485 West Van Vleek Street,"Waterloo, IN",-85.024298,41.431816,WTI
+1037,Station Building (with waiting room),TRAIN,58801,ND,Williston,1 South Main Street,"Williston, ND",-103.620926,48.143,WTN
+1041,Platform with Shelter,TRAIN,39194,MS,Yazoo City,West Broadway (SR149) & North Water Street,"Yazoo City, MS",-90.41523,32.848477,YAZ
+1043,Platform with Shelter,TRAIN,29945,SC,Yemassee,15 Wall Street,"Yemassee, SC",-80.846901,32.688286,YEM
+1044,Station Building (with waiting room),TRAIN,10701,NY,Yonkers,5 Buena Vista Avenue,Yonkers,-73.902263,40.935586,YNY
+1053,Platform only (no shelter),TRAIN,85364,AZ,Yuma,281 Gila Street,Yuma,-114.615571,32.723139,YUM
